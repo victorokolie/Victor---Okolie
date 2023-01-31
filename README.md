@@ -51,3 +51,9 @@ Another negative effect of health information technology (HIT) on the price and 
 
 🔲 Overall,
 The effectiveness and quality of medical care could be considerably improved by health IT (HIT), but good implementation is essential to minimizing risks and maximizing benefits. To guarantee that HIT system implementation is done in a way that avoids interruptions, maximizes benefits, and protects patient privacy and information security, it is important to plan and manage it carefully. The capacity of healthcare professionals to successfully integrate and utilize these systems to improve patient outcomes, lower costs, and improve overall quality of care is crucial to HIT's ability to improve both the cost and quality of medical care.
+
+
+#### References 
+
+"Health Information Technology (HIT)" From https://rb.gy/pichkj
+"The Positive And Negative Impacts Of Health Information Technology In The Healthcare Field" From https://rb.gy/5ivo9z 
