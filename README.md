@@ -20,7 +20,7 @@ Picture :- https://rb.gy/ya7z7y
 
 ## Let’s discuss step by step to get a proper knowledge about this!
 
-Positive effects:
+🟦Positive effects:
 
 increased accuracy of medical records, less medical errors, and fewer treatments that are repeated.
 One benefit of health information technology (HIT) on the price and standard of care is increased accuracy of medical records. By increasing the precision and thoroughness of patient data, the adoption of electronic medical records (EMRs) and other HIT systems can contribute to a reduction in medical errors. This may result in better patient outcomes, more precise diagnoses and treatments, and lower medical expenses. The danger of harmful drug interactions and other medical errors can be decreased by having quick access to a patient's medical background and current prescriptions.
@@ -32,7 +32,7 @@ Typical activities like appointment scheduling and prescription renewals can be 
 
 HIT systems can immediately inform healthcare professionals of potential medication interactions and other safety issues, lowering the possibility of unfavorable outcomes. Better patient outcomes and lower medical expenses may result from this increased patient safety. Utilizing HIT can also aid with medication management, ensuring that patients get the right drugs in the right amounts, further enhancing patient safety.
 
-Negative effects:
+🟦Negative effects:
 
 cost increases for installing and maintaining HIT systems.
 
@@ -49,5 +49,5 @@ Health information technology (HIT) has a detrimental impact on the price and st
 
 Another negative effect of health information technology (HIT) on the price and standard of medical care is the requirement for significant modifications to current procedures and the potential for disruptions during the transition. Healthcare processes and systems frequently need to be significantly changed to implement HIT systems, which can cause disruptions and necessitate considerable time and resource commitments. Healthcare providers might also need to educate personnel on new procedures and systems, which would add to the transition's expense and complexity. HIT has significant long-term benefits, but to implement it in a way that avoids interruptions and maximizes the advantages for patients and healthcare professionals, it is crucial to properly manage the transition.
 
-Overall,
+🔲 Overall,
 The effectiveness and quality of medical care could be considerably improved by health IT (HIT), but good implementation is essential to minimizing risks and maximizing benefits. To guarantee that HIT system implementation is done in a way that avoids interruptions, maximizes benefits, and protects patient privacy and information security, it is important to plan and manage it carefully. The capacity of healthcare professionals to successfully integrate and utilize these systems to improve patient outcomes, lower costs, and improve overall quality of care is crucial to HIT's ability to improve both the cost and quality of medical care.
