@@ -2,7 +2,7 @@
 
 ![blog image 1](https://user-images.githubusercontent.com/119295853/215843591-a9951694-ab7b-412b-9b0d-657064dd7cea.jpg)
 
-Picture :- https://rb.gy/uzk8nt 
+[Picture](https://rb.gy/uzk8nt0)
 
 ## First let’s know what this is,
 
@@ -16,7 +16,7 @@ The success of HIT in reducing costs and improving the quality of medical care d
 
 ![blog image 2](https://user-images.githubusercontent.com/119295853/215848407-c5db8ab7-0359-4a85-af2c-79c6f3810416.jpg)
 
-Picture :- https://rb.gy/ya7z7y 
+[Picture](https://rb.gy/ya7z7y)
 
 ## Let’s discuss step by step to get a proper knowledge about this!
 
