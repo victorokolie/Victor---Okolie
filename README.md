@@ -55,8 +55,8 @@ The effectiveness and quality of medical care could be considerably improved by 
 
 #### References 
 
-"Health Information Technology (HIT)" From [here].(https://rb.gy/pichkj)
+"Health Information Technology (HIT)" From [here](https://rb.gy/pichkj)
 
-"The Positive And Negative Impacts Of Health Information Technology In The Healthcare Field" From [here].(https://rb.gy/5ivo9z)
+"The Positive And Negative Impacts Of Health Information Technology In The Healthcare Field" From [here](https://rb.gy/5ivo9z)
 
-Health IT (health information technology) from [here ].(https://rb.gy/nsyluw)
+Health IT (health information technology) from [here](https://rb.gy/nsyluw)
